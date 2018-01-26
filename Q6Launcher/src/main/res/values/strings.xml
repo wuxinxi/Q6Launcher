@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Q6Launcher</string>
+    <string name="sn_code">SNCode:</string>
+    <string name="version">Version:</string>
+</resources>
